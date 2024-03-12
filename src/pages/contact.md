@@ -3,6 +3,10 @@ layout: "@layouts/PageLayout.astro"
 title: Design overview
 ---
 
+# Notice
+
+> Currently, we are not taking on new clients. Thank you for your interest and understanding.
+
 # Contact
 
 <p>E-mail:
