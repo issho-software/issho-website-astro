@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/PageLayout.astro"
-title: Design overview
+title: Contact
 ---
 
 # Notice
